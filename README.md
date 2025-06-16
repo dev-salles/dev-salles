@@ -1,16 +1,21 @@
-## Hi there 👋
+# Davi Sales Barcelos | @dev_salles
 
-<!--
-**dev-salles/dev-salles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DDE392?style=for-the-badge&logo=linkedin&logoColor=7D8570)](https://www.linkedin.com/in/thesalles/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+![PHP](https://img.shields.io/badge/PHP-DDE392?style=for-the-badge&logo=PHP&logoColor=504B3A)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-DDE392?style=for-the-badge&logo=Laravel&logoColor=504B3A)
+![JAVA](https://img.shields.io/badge/Java-DDE392?style=for-the-badge&logo=java&logoColor=504B3A)
+![SPRING](https://img.shields.io/badge/Spring-DDE392?style=for-the-badge&logo=spring&logoColor=504B3A)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-DDE392?style=for-the-badge&logo=postgresql&logoColor=504B3A)
+![DOCKER](https://img.shields.io/badge/Docker-DDE392?style=for-the-badge&logo=docker&logoColor=504B3A)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SallesThe&theme=transparent&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=504B3A&title_color=504B3A&text_color=000&hide_title=true&hide=stars) 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SallesThe&layout=compact&bg_color=DDE392&border_color=AFBE8F&title_color=000&text_color=504B3A)
+
+### Meus Principais Repositórios
