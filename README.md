@@ -6,7 +6,7 @@
 
 ### Habilidades
 ![PHP](https://img.shields.io/badge/PHP-DDE392?style=for-the-badge&logo=PHP&logoColor=504B3A)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-DDE392?style=for-the-badge&logo=Laravel&logoColor=504B3A)
+![LARAVEL](https://img.shields.io/badge/Laravel-DDE392?style=for-the-badge&logo=laravel&logoColor=504B3A)
 ![JAVA](https://img.shields.io/badge/Java-DDE392?style=for-the-badge&logo=java&logoColor=504B3A)
 ![SPRING](https://img.shields.io/badge/Spring-DDE392?style=for-the-badge&logo=spring&logoColor=504B3A)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-DDE392?style=for-the-badge&logo=postgresql&logoColor=504B3A)
