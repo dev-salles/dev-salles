@@ -14,8 +14,8 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SallesThe&theme=transparent&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=504B3A&title_color=504B3A&text_color=000&hide_title=true&hide=stars) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-salles&theme=transparent&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=504B3A&title_color=504B3A&text_color=000&hide_title=true&hide=stars) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SallesThe&layout=compact&bg_color=DDE392&border_color=AFBE8F&title_color=000&text_color=504B3A)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-salles&layout=compact&bg_color=DDE392&border_color=AFBE8F&title_color=000&text_color=504B3A)
 
 ### Meus Principais Repositórios
