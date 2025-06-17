@@ -20,4 +20,4 @@
 
 ### Meus Principais Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-salles&repo=Accorde&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/dev-salles/Accorde)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-salles&repo=accorde&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/dev-salles/Accorde)
