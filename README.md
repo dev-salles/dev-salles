@@ -20,13 +20,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-DDE392.svg?style=for-the-badge&logo=kubernetes&logoColor=504B3A)
 ![Rancher](https://img.shields.io/badge/rancher-DDE392.svg?style=for-the-badge&logo=rancher&logoColor=504B3A)
 ![Jira](https://img.shields.io/badge/jira-DDE392.svg?style=for-the-badge&logo=jira&logoColor=504B3A)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-salles&theme=transparent&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=504B3A&title_color=504B3A&text_color=000&hide_title=true&hide=stars) 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-salles&layout=compact&bg_color=DDE392&border_color=AFBE8F&title_color=000&text_color=504B3A)
-
-### Meus Principais Repositórios
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-salles&repo=accorde&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/dev-salles/Accorde)
